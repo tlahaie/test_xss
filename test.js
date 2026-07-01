@@ -1,1 +1,1 @@
-alert("Oh mon dieu")
+alert("ceci est un script exterieur !!!")
